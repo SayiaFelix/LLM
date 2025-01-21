@@ -1,0 +1,11 @@
+Flight Ticket
+=============
+Booking #   : 1
+Passenger   : Felix Lucas, Age 26
+Source      : Nairobi
+Destination : Paris
+Airline     : EuropeanAirlinesAI
+Departure   : 11:00 AM
+Price       : $399
+Duration    : 7 hours
+Seat Number : Y74
